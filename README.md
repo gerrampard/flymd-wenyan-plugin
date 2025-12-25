@@ -13,10 +13,8 @@
 ## 安装方法
 
 1. 点击菜单栏「扩展」按钮
-2. 输入：`your-username/flymd-wenyan-plugin`
+2. 输入：`gerrampard/flymd-wenyan-plugin`
 3. 点击「安装」
-
-> 注意：请将 `your-username/flymd-wenyan-plugin` 替换为实际的 GitHub 仓库地址
 
 ## 使用方法
 
