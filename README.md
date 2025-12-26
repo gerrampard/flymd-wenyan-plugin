@@ -1,6 +1,6 @@
 # flyMD Wechat Formatter Plugin
 
-这是一个为 [flyMD](https://flymd.app) 开发的扩展插件，用于将 Markdown 内容转换为适配微信公众号的美化格式。
+这是一个为 [flyMD](https://github.com/flyhunterl/flymd) 开发的扩展插件，用于将 Markdown 内容转换为适配微信公众号的美化格式。
 核心渲染引擎移植自优秀的 [文颜 (WenYan)](https://github.com/caol64/wenyan) 项目。
 
 ## 功能特性
